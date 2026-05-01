@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme_md = """# スポットライトプラグイン ver1.0.0
+ """# スポットライトプラグイン ver1.0.0
 
 ゆっくりMovieMaker4に、矩形スポットライトの映像エフェクトを追加するプラグインです。
 
