@@ -24,6 +24,7 @@
 - 周囲を暗くする強度を調整
 - 境界ぼかしをpx単位で調整
 - 画像および動画アイテムへの適用に対応
+<img width="1580" height="947" alt="image" src="https://github.com/user-attachments/assets/2bfeff85-00d4-4466-84ea-02047aaac8b6" />
 
 ---
 
@@ -51,3 +52,21 @@ https://github.com/hatankokka/YMM4-SpotlightEffect
 
 ```text
 YukkuriMovieMaker4\\user\\plugin\\SpotlightEffect\\SpotlightEffect.dll
+```
+
+## 使い方
+
+1. YMM4を起動します。
+2. タイムライン上の画像または動画アイテムを選択します。
+3. 右側パネルの「映像エフェクト」から「スポットライト」を追加します。
+4. 中心X / 中心Y / 幅 / 高さ / 暗くする強度 / 境界ぼかし を調整します。
+
+## 注意
+
+このプラグインは非公式プラグインです。
+ゆっくりMovieMaker4 本体および YMM4 関連DLLは同梱していません。
+
+## License
+
+MIT License
+
